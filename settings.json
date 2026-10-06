@@ -31,9 +31,21 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Arsalan, you're so tight!",
+        "Arsalan, you're all wet!",
+        "I'm cummming inside you!",
+        "AHH AH!",
+        "HAA HA HA!",
+        "WTF!",
+        "COOL!!",
+        "You're So CUTE!",
+        "Are you a virgin?",
+        "Wanna try to sleep with me tonight?",
+        "Ehh?",
+        "HUH!?",
+        "WTH?",
+        "Nom Nom Nom Nom",
+        "Hello, Everyone!"
       ]
     },
     "chat-log": true,
@@ -70,7 +82,7 @@
   },
   "beds": {
     "pick-up-day": false,
-    "place-night": false
+    "place-night": True
   },
   "discord": {
     "enabled": false,
