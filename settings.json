@@ -82,7 +82,7 @@
   },
   "beds": {
     "pick-up-day": false,
-    "place-night": True
+    "place-night": true
   },
   "discord": {
     "enabled": false,
