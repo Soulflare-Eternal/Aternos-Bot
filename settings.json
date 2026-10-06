@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Arsalan",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "Ontop0434f.aternos.me",
     "port": 17604,
     "version": "1.20.1",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
